@@ -7,3 +7,4 @@ Technologies I used:
 + SASS(SCSS)
 + JS ES6
 + BEM
++ Git
