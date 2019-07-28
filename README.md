@@ -25,10 +25,6 @@ Add more general information about project. What the purpose of the project is? 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
 ## Features
 List of features ready and TODOs for future development
 * Awesome feature 1
