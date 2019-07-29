@@ -1,5 +1,5 @@
 # Portfolio
-> Here goes your awesome project description!
+> This is my portfolio website. You'll find here all informations about me.
 
 ## Table of contents
 * [General info](#general-info)
