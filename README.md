@@ -31,4 +31,4 @@ Project is: _finished_
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@jkondraciuk](https://jkondraciuk.github.io/portfolio) - feel free to contact me!
